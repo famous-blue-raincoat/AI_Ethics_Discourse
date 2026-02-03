@@ -1,0 +1,16 @@
+# Data Manipulation
+pandas
+numpy
+
+# NLP
+nltk
+gensim
+sentence-transformers
+
+# Clustering & Dimensionality Reduction
+hdbscan
+umap-learn
+scikit-learn
+
+# Visualization
+matplotlib
